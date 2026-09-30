@@ -1,0 +1,135 @@
+[
+  {
+    "id": "greek-legends",
+    "src": "/logos/greek-legends.png",
+    "width": 146,
+    "height": 140,
+    "bytes": 12212
+  },
+  {
+    "id": "glal",
+    "src": "/logos/glal.png",
+    "width": 1054,
+    "height": 999,
+    "bytes": 67683
+  },
+  {
+    "id": "greek-legends-2nd-division",
+    "src": "/logos/greek-legends-2nd-division.png",
+    "width": 148,
+    "height": 140,
+    "bytes": 11404
+  },
+  {
+    "id": "hesf",
+    "src": "/logos/hesf.png",
+    "width": 140,
+    "height": 140,
+    "bytes": 17957
+  },
+  {
+    "id": "agency",
+    "src": "/logos/agency.png",
+    "width": 113,
+    "height": 100,
+    "bytes": 3934
+  },
+  {
+    "id": "gamers-united",
+    "src": "/logos/gamers-united.png",
+    "width": 197,
+    "height": 140,
+    "bytes": 10906
+  },
+  {
+    "id": "league-of-legends",
+    "src": "/logos/league-of-legends.png",
+    "width": 331,
+    "height": 140,
+    "bytes": 95445
+  },
+  {
+    "id": "valorant",
+    "src": "/logos/valorant.png",
+    "width": 380,
+    "height": 56,
+    "bytes": 6140
+  },
+  {
+    "id": "tft",
+    "src": "/logos/tft.png",
+    "width": 380,
+    "height": 27,
+    "bytes": 5514
+  },
+  {
+    "id": "esports-summit",
+    "src": "/logos/esports-summit.png",
+    "width": 325,
+    "height": 140,
+    "bytes": 31135
+  },
+  {
+    "id": "inspot",
+    "src": "/logos/inspot.png",
+    "width": 216,
+    "height": 140,
+    "bytes": 16206
+  },
+  {
+    "id": "ant1",
+    "src": "/logos/ant1.svg",
+    "width": 779,
+    "height": 423,
+    "bytes": 3978
+  },
+  {
+    "id": "ewc",
+    "src": "/logos/ewc.png",
+    "width": 380,
+    "height": 74,
+    "bytes": 5145
+  },
+  {
+    "id": "enc",
+    "src": "/logos/enc.png",
+    "width": 380,
+    "height": 87,
+    "bytes": 4714
+  },
+  {
+    "id": "counter-strike-2",
+    "src": "/logos/counter-strike-2.png",
+    "width": 380,
+    "height": 78,
+    "bytes": 9314
+  },
+  {
+    "id": "formula-1",
+    "src": "/logos/formula-1.png",
+    "width": 380,
+    "height": 96,
+    "bytes": 7744
+  },
+  {
+    "id": "nlc",
+    "src": "/logos/nlc.png",
+    "width": 133,
+    "height": 140,
+    "bytes": 8662
+  },
+  {
+    "id": "valorant-balkan-league",
+    "src": "/logos/valorant-balkan-league.png",
+    "width": 109,
+    "height": 140,
+    "bytes": 10926
+  },
+  {
+    "id": "east-surge",
+    "src": "/logos/east-surge.png",
+    "width": 134,
+    "height": 140,
+    "bytes": 6003
+  }
+]

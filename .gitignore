@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.npm-cache/
+.media-venv/
+*.tsbuildinfo
+review/*.log
+/review/
+/photos/
+/videos/
+/logos/
+/docs/PLAN.md
+/docs/QA.md
+/docs/PAVLOS-REFERENCE-REVIEW.md
+.wrangler/
+.env*
+!.env.example

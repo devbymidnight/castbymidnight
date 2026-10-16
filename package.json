@@ -11,6 +11,6 @@
     "check:seo": "node scripts/check-seo.mjs",
     "check:language": "node scripts/check-language.mjs"
   },
-  "dependencies": { "next": "16.3.7", "react": "19.3.0", "react-dom": "19.3.0" },
+  "dependencies": { "next": "16.3.8", "react": "19.3.0", "react-dom": "19.3.0" },
   "devDependencies": { "@types/node": "^24", "@types/react": "^19", "@types/react-dom": "^19", "typescript": "^5.9", "@fontsource/barlow-condensed": "^5.2", "@fontsource/manrope": "^5.2" }
 }
